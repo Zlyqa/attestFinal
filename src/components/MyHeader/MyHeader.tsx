@@ -40,7 +40,7 @@ export default function MyHeader() {
         },
         {
             key: '/articles',
-            label: <NavLink to="/articles">Статьи</NavLink>,
+            label: <NavLink to="/articles">Новости</NavLink>,
         },
     ];
 
